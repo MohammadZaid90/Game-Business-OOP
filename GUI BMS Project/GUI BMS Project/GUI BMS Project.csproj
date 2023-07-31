@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DEAC5F28-0DE6-49A6-838A-260FB1C8B8CE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI_BMS_Project</RootNamespace>
+    <AssemblyName>GUI BMS Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\AdminChangePasswordFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminChangePasswordFrm.Designer.cs">
+      <DependentUpon>AdminChangePasswordFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ClientChangePassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ClientChangePassForm.Designer.cs">
+      <DependentUpon>ClientChangePassForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminDepositeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminDepositeFrm.Designer.cs">
+      <DependentUpon>AdminDepositeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\Admin.cs" />
+    <Compile Include="BL\Customer.cs" />
+    <Compile Include="BL\MUserBL.cs" />
+    <Compile Include="Forms\AdminCheckBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminCheckBalance.Designer.cs">
+      <DependentUpon>AdminCheckBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CheckbalanceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CheckbalanceForm.Designer.cs">
+      <DependentUpon>CheckbalanceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ClientDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ClientDetails.Designer.cs">
+      <DependentUpon>ClientDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ClientHomeForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\ClientHomeForm.Designer.cs">
+      <DependentUpon>ClientHomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ClientShowDepositeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ClientShowDepositeFrm.Designer.cs">
+      <DependentUpon>ClientShowDepositeFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CnicCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CnicCheck.Designer.cs">
+      <DependentUpon>CnicCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CrudClientFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CrudClientFrm.Designer.cs">
+      <DependentUpon>CrudClientFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DL\AdminDL.cs" />
+    <Compile Include="DL\CustomerDL.cs" />
+    <Compile Include="DL\MUserDL.cs" />
+    <Compile Include="Forms\ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ClientForm.Designer.cs">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ClientDepositeAmountFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ClientDepositeAmountFrm.Designer.cs">
+      <DependentUpon>ClientDepositeAmountFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TransferAmountFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TransferAmountFrm.Designer.cs">
+      <DependentUpon>TransferAmountFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WithDrawFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WithDrawFrm.Designer.cs">
+      <DependentUpon>WithDrawFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignINForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignINForm.Designer.cs">
+      <DependentUpon>SignINForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HomeAdminFrm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\HomeAdminFrm.Designer.cs">
+      <DependentUpon>HomeAdminFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUPForm.Designer.cs">
+      <DependentUpon>SignUPForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\AdminChangePasswordFrm.resx">
+      <DependentUpon>AdminChangePasswordFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClientChangePassForm.resx">
+      <DependentUpon>ClientChangePassForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminDepositeFrm.resx">
+      <DependentUpon>AdminDepositeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminCheckBalance.resx">
+      <DependentUpon>AdminCheckBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CheckbalanceForm.resx">
+      <DependentUpon>CheckbalanceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClientDetails.resx">
+      <DependentUpon>ClientDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClientHomeForm.resx">
+      <DependentUpon>ClientHomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClientShowDepositeFrm.resx">
+      <DependentUpon>ClientShowDepositeFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CnicCheck.resx">
+      <DependentUpon>CnicCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CrudClientFrm.resx">
+      <DependentUpon>CrudClientFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClientForm.resx">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ClientDepositeAmountFrm.resx">
+      <DependentUpon>ClientDepositeAmountFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TransferAmountFrm.resx">
+      <DependentUpon>TransferAmountFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WithDrawFrm.resx">
+      <DependentUpon>WithDrawFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignINForm.resx">
+      <DependentUpon>SignINForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HomeAdminFrm.resx">
+      <DependentUpon>HomeAdminFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUPForm.resx">
+      <DependentUpon>SignUPForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2023-07-14 031839.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

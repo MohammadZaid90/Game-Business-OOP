@@ -1,0 +1,81 @@
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\bin\Debug\GUI BMS Project.exe.config
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\bin\Debug\GUI BMS Project.exe
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\bin\Debug\GUI BMS Project.pdb
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Properties.Resources.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.csproj.GenerateResource.cache
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.csproj.CoreCompileInputs.cache
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.exe
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.pdb
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.DL.SignINForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.SignUPForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.AdminForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.HomeAdminFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.CrudClientFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.CheckBalance.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.CnicCheck.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientHomeForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientDetails.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.CheckbalanceForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.WithDrawFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.TransferAmountFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.AdminDepositeFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientDepositeAmountFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientShowDepositeFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.csproj.AssemblyReference.cache
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientChangePassForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.AdminChangePasswordFrm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\bin\Debug\GUI BMS Project.exe.config
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\bin\Debug\GUI BMS Project.exe
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\bin\Debug\GUI BMS Project.pdb
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.csproj.AssemblyReference.cache
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.AdminChangePasswordFrm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientChangePassForm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.AdminDepositeFrm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.AdminForm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.CheckBalance.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.CheckbalanceForm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientDetails.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientHomeForm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientShowDepositeFrm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.CnicCheck.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.CrudClientFrm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientForm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientDepositeAmountFrm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.TransferAmountFrm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.WithDrawFrm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.DL.SignINForm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.HomeAdminFrm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.SignUPForm.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Properties.Resources.resources
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.csproj.GenerateResource.cache
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.csproj.CoreCompileInputs.cache
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.exe
+D:\Object Oriented Programming 2023\OOP Projects\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.pdb
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\bin\Debug\GUI BMS Project.exe.config
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\bin\Debug\GUI BMS Project.exe
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\bin\Debug\GUI BMS Project.pdb
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.AdminChangePasswordFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientChangePassForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.AdminDepositeFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.AdminForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.CheckBalance.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.CheckbalanceForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientDetails.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientHomeForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientShowDepositeFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.CnicCheck.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.CrudClientFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.ClientDepositeAmountFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.TransferAmountFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Forms.WithDrawFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.DL.SignINForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.HomeAdminFrm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.SignUPForm.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI_BMS_Project.Properties.Resources.resources
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.csproj.GenerateResource.cache
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.csproj.CoreCompileInputs.cache
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.exe
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.pdb
+C:\Users\M ZAID\OneDrive\Desktop\Copy of Game and Business Project\GUI BMS Project\GUI BMS Project\obj\Debug\GUI BMS Project.csproj.AssemblyReference.cache
